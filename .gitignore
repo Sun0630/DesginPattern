@@ -1,2 +1,7 @@
 /.metadata
 /.recommenders
+/FactoryPattern/build
+/FactoryPattern/app/build
+*.iml
+/FactoryPattern/.idea
+/FactoryPattern/local.properties
