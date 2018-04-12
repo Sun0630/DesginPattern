@@ -448,7 +448,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 4.效果
 
-![](img/show.png)
+![](img/show.jpg)
 
 
 
