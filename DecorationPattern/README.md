@@ -7,7 +7,7 @@
 使用场景：需要透明且动态的扩展类的功能时。
 
 ## UML
-![](/img/decoration.png)
+![](img/decoration.png)
 ## 角色介绍
 * Component：抽象组件，可以是一个接口或抽象类，充当的就是被装饰的原始对象。
 * ConcreteComponent：组件具体实现类，是我们装饰的具体对象
@@ -448,7 +448,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 4.效果
 
-![](/img/show.png)
+![](img/show.png)
 
 
 
